@@ -1,7 +1,6 @@
 # read_and_write_with_provider
 
 A new Flutter project.
-https://tesshus-blog.netlify.app/flutter-change-notifier/
 
 ## Getting Started
 
