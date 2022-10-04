@@ -1,6 +1,5 @@
 # read_and_write_with_provider
-
-A new Flutter project.
+This app is not completed yet. (05/10/2022)
 
 ## Getting Started
 
