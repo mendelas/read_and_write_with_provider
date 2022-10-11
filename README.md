@@ -1,6 +1,8 @@
 # read_and_write_with_provider
 This app is not completed yet. (05/10/2022)
 
+crash because of some error. I'll remake(11/10/2022)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
